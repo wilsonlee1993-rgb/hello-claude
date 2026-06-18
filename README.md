@@ -10,5 +10,5 @@ Run the greeter:
 
 ## About
 
-This repo was created to learn the GitHub pull reqeust workflow:
+This repo was created to learn the GitHub pull request workflow:
 branch, make a change, commit, push, and open a PR.
